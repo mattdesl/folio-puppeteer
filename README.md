@@ -26,4 +26,4 @@ Then see the PNG in `tmp/`. You can change the `height` and `maxTokens` variable
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/mattdesl/folio-puppeteer/blob/master/LICENSE.md) for details.
+Unlicensed at present.
