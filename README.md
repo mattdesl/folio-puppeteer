@@ -26,4 +26,5 @@ Then see the PNG in `tmp/`. You can change the `height` and `maxTokens` variable
 
 ## License
 
-Unlicensed at present.
+Copyright Matt DesLauriers.
+(An open source version may come from this.)
