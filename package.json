@@ -1,0 +1,29 @@
+{
+  "name": "folio-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "maxstache": "^1.0.7",
+    "mkdirp": "^1.0.4",
+    "puppeteer": "^15.4.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/folio-puppeteer.git"
+  },
+  "homepage": "https://github.com/mattdesl/folio-puppeteer",
+  "bugs": {
+    "url": "https://github.com/mattdesl/folio-puppeteer/issues"
+  }
+}
